@@ -1,8 +1,7 @@
 - 👋 I’m a beginner developer
 - 🎓 UofT '11
 - 👀 I’m interested in photography
-- 🌱 I’m currently learning SwiftUI
-- 📫 simpleAshley94@gmail.com
+- 🌱 I’m currently learning SwiftUI & React Native
 
 <!---
 simpleAshley/simpleAshley is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
