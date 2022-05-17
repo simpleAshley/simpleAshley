@@ -1,4 +1,5 @@
 - 👋 I’m a beginner developer
+- 🎓 UofT '11
 - 👀 I’m interested in photography
 - 🌱 I’m currently learning SwiftUI
 - 📫 simpleAshley94@gmail.com
